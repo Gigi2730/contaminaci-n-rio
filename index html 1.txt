@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conciencia sobre la Contaminación en el Río Chillón</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #333;
+        }
+        nav a {
+            color: white;
+            padding: 14px 20px;
+            text-decoration: none;
+            text-align: center;
+        }
+        nav a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        .container {
+            padding: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Conciencia sobre la Contaminación en el Río Chillón</h1>
+    </header>
+    <nav>
+        <a href="#inicio">Inicio</a>
+        <a href="#sobre-nosotros">Sobre Nosotros</a>
+        <a href="#el-problema">El Problema</a>
+        <a href="#soluciones">Soluciones</a>
+        <a href="#blog">Blog</a>
+        <a href="#contacto">Contacto</a>
+    </nav>
+    <div id="inicio" class="container">
+        <h2>Bienvenido</h2>
+        <p>Bienvenido a nuestra página dedicada a crear conciencia sobre la contaminación por residuos sólidos en el río Chillón.</p>
+    </div>
+    <div id="sobre-nosotros" class="container">
+        <h2>Sobre Nosotros</h2>
+        <p>Nuestra misión es educar y movilizar a la comunidad para proteger el río Chillón de la contaminación.</p>
+    </div>
+    <div id="el-problema" class="container">
+        <h2>El Problema</h2>
+        <p>El río Chillón enfrenta graves problemas de contaminación debido a los residuos sólidos. Aquí encontrarás información detallada y estadísticas sobre este problema.</p>
+    </div>
+    <div id="soluciones" class="container">
+        <h2>Soluciones</h2>
+        <p>Descubre las soluciones que proponemos para reducir la contaminación en el río Chillón y cómo puedes ayudar.</p>
+    </div>
+    <div id="blog" class="container">
+        <h2>Blog</h2>
+        <p>Lee nuestros artículos y noticias sobre la situación del río Chillón.</p>
+    </div>
+    <div id="contacto" class="container">
+        <h2>Contacto</h2>
+        <p>Contáctanos para más información o para unirte a nuestras iniciativas.</p>
+    </div>
+    <footer>
+        <p>&copy; 2024 Conciencia sobre la Contaminación en el Río Chillón</p>
+    </footer>
+</body>
+</html>
